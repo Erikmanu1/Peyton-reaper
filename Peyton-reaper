@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primeira versão da API Peyton-reaper em Go"
+git branch -M main
+git remote add origin https://github.com/Erikmanu1/Peyton-reaper.git
+git push -u origin main
